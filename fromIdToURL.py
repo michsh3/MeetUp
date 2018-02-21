@@ -3,6 +3,7 @@ import psycopg2.extras
 
 #USED!!!!!
 
+print("Hi")
 
 HOST="unomy-newbeta-pg10.cq3osgn0otff.us-east-1.rds.amazonaws.com"
 DATABASE="unomy_data_flat"
